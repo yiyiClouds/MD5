@@ -1,2 +1,2 @@
-# MD5
-try md5
+# vcpkgdemo
+A demo to show how to create a vcpkg package
